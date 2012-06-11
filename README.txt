@@ -1,4 +1,3 @@
-
 #---------------------------------------------#
 
 Code for Master's thesis: 
@@ -15,6 +14,8 @@ June, 2012
 #---------------------------------------------#
 
 The code is written in Python and uses FEniCS, see www.fenicsproject.org.
+
+The thesis can be found here: https://dl.dropbox.com/u/69482404/s090339_MMC_thesis.pdf
 
 It is divided into two main parts:
 
